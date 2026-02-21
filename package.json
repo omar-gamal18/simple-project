@@ -1,0 +1,21 @@
+{
+  "name": "simple-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.13"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1"
+  }
+}
